@@ -1,5 +1,6 @@
 export const titems = [
     {
+        id:1,
         title:"Artificial Inteligence",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
         img:"/ai.png",
@@ -9,6 +10,7 @@ export const titems = [
         icn4:"/devicons/ai/Keras.svg",
     },
     {
+        id:2,
         title:"Web Developement",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
         img:"/webdesign.png",
@@ -18,6 +20,7 @@ export const titems = [
         icn4:"/devicons/web/django.svg",
     },
     {
+        id:3,
         title:"Data Science",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
         img:"/datasci.png",
@@ -30,6 +33,7 @@ export const titems = [
 
 export const Lesson_Items =[
     {
+        id:1,
         title:"Python For AI",
         img:"/devicons/datasci/python.svg",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
@@ -38,6 +42,7 @@ export const Lesson_Items =[
         stds:1543
     },
     {
+        id:2,
         title:"Advanced Web With Next.JS",
         img:"/devicons/web/nextjs.png",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
@@ -46,6 +51,7 @@ export const Lesson_Items =[
         stds:763
     },
     {
+        id:3,
         title:"Python For AI",
         img:"/devicons/datasci/python.svg",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
@@ -54,6 +60,7 @@ export const Lesson_Items =[
         stds:1543
     },
     {
+        id:4,
         title:"Backend Dev With Django",
         img:"/devicons/web/django.svg",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
@@ -62,6 +69,7 @@ export const Lesson_Items =[
         stds:543
     },
     {
+        id:5,
         title:"Python For AI",
         img:"/devicons/datasci/python.svg",
         text:"Deserunt cupidatat cillum dolor Lorem quis sit. Lorem cillum duis dolore exercitation eiusmod mollit adipisicing. Proident ea ipsum duis reprehenderit qui dolor eu ea commodo Lorem sunt sit. Esse aute occaecat consequat reprehenderit. Deserunt id amet commodo mollit.",
@@ -71,4 +79,4 @@ export const Lesson_Items =[
     }
 ]
 
-export const Home_Address = "http://localhost:3000/"
+export const Home_Address = "http://moongp.ir"

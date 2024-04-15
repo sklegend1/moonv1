@@ -75,6 +75,7 @@ const Feed3 = async () => {
             {makeSummeryH(3,cat3)}
             <hr className=" opacity-0 text-cyan-800 my-[5vw] border-2 shadow-md shadow-amber-200"></hr>
             <Blog_Stats />
+            <hr className=" opacity-0 text-cyan-800 my-[5vw] border-2 shadow-md shadow-amber-200"></hr>
             
 
         </div>

@@ -27,7 +27,7 @@ const GetPosts = () => {
         <div className=" text-center text-white mt-[15vw]">
             <div>Post:{""}</div>
             result is : {Post.map((obj)=>(
-                <Text_Card title={obj.title} text={obj.content}  />
+                <Text_Card key={obj.id} title={obj.title} text={obj.content}  />
             ))}
             
         </div>

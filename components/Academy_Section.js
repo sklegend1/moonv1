@@ -42,7 +42,7 @@ const Academy_Section = () => {
              onMouseUp={(e)=>{setMousePrevX(MouseX);snapping(e)}}
              >
                 {Lesson_Items.map((obj)=>(
-                    <div className=" col-span-1 p-[8px]  ">
+                    <div key={obj.id} className=" col-span-1 p-[8px]  ">
                         <Lesson_card params={obj} />
                     </div>
                 ))}
